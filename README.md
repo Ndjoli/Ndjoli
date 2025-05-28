@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ndjoli/Ndjoli/main/arman_ndjoli_banner_wide.png" alt="Arman Ndjoli Banner" />
-</p>
+
 
 ---
 
