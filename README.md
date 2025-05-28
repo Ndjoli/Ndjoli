@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/Ndjoli/Ndjoli/blob/main/05758e02-42c4-400d-b29a-0bae9d759d21.png" alt="Arman Ndjoli Banner" width="100%" />
+</p>
 
-<!--
-**Ndjoli/Ndjoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Hi there, I'm Arman Ndjoli
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Data Analyst**
+
+Insight-driven and analytical Data Analyst with certifications in Power BI, Python, SQL, and Excel. I specialize in transforming raw data into clear, actionable insights through hands-on experience in data visualization, wrangling, and dashboard development. I’m passionate about solving real business problems and turning messy datasets into powerful insights that speak directly to decision-makers.
+
+---
+
+<p align="center">
+  <a href="https://github.com/Ndjoli?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio Button"/>
+  </a>
+</p>
+
+## 📫 Contact
+
+📧 [armanndjoli97@gmail.com](mailto:armanndjoli97@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/arman-ndjoli97)
