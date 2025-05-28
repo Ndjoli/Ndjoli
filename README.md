@@ -1,5 +1,7 @@
-<img src="https://github.com/Ndjoli/Ndjoli/blob/main/05758e02-42c4-400d-b29a-0bae9d759d21.png" alt="Arman Ndjoli Banner" width="100%" />
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ndjoli/Ndjoli/main/arman_ndjoli_banner.png" alt="Arman Ndjoli Banner" width="100%" />
+</p>
 ---
 
 # 👋 Hi there, I'm Arman Ndjoli
