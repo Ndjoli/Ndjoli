@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ndjoli/Ndjoli/main/arman_ndjoli_banner.png" alt="Arman Ndjoli Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ndjoli/Ndjoli/main/arman_ndjoli_banner_small.png" alt="Arman Ndjoli Banner" />
 </p>
 ---
 
