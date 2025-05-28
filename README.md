@@ -6,7 +6,7 @@
 
 🎯 **Data Analyst**
 
-Insight-driven and analytical Data Analyst with certifications in Power BI, Python, SQL, and Excel. I specialize in transforming raw data into clear, actionable insights through hands-on experience in data visualization, wrangling, and dashboard development. I’m passionate about solving real business problems and turning messy datasets into powerful insights that speak directly to decision-makers.
+**Insight-driven and analytical Data Analyst with certifications in Power BI, Python, SQL, and Excel. I specialize in transforming raw data into clear, actionable insights through hands-on experience in data visualization, wrangling, and dashboard development. I’m passionate about solving real business problems and turning messy datasets into powerful insights that speak directly to decision-makers**
 
 ---
 
