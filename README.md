@@ -6,7 +6,8 @@
 
 🎯 **Multidisciplinary Data Analyst | AI Agent Developer | Prompt Engineer**
 
-**Insight-driven and analytical Data Analyst with certifications in Power BI, Python, SQL, and Excel. I specialize in transforming raw data into clear, actionable insights through hands-on experience in data visualization, wrangling, and dashboard development. I’m passionate about solving real business problems and turning messy datasets into powerful insights that speak directly to decision-makers**
+**I'm a multidisciplinary Data Analyst, AI Agent Developer, and Prompt Engineer with a passion for solving real-world problems using data and intelligent automation. With certifications in Power BI, Python, SQL, and Excel, I specialize in turning messy datasets into clean insights, building AI-powered tools, and automating workflows that save time and drive results.
+Whether it's designing dashboards, developing custom AI assistants, or crafting prompt flows for GPT-based systems, I bridge the gap between analytics, automation, and user experience. I believe in working smart, moving fast, and building solutions that scale**
 
 ---
 
